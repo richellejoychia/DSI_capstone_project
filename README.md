@@ -21,7 +21,7 @@ Existing systems rarely aim at recommending tangible itineraries for tourists wi
 
 ## **Libraries and packages used**
 
-- pandas,
+- pandas
 - numpy
 - scipy
 - matplotlib
