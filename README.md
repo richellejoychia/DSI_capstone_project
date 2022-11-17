@@ -71,6 +71,6 @@ As for the Streamlit deployment,
 
 ## **External resources**
 
-- [Google sheets for labelling of categories](https://docs.google.com/spreadsheets/d/1SdWfaTsiF70kirT-8QC4Cq97O_T2ZBc_8tnWh0fTmCo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1SdWfaTsiF70kirT-8QC4Cq97O_T2ZBc_8tnWh0fTmCo/edit?usp=sharing)
+- [Google sheets for labelling of categories](https://docs.google.com/spreadsheets/d/1SdWfaTsiF70kirT-8QC4Cq97O_T2ZBc_8tnWh0fTmCo/edit?usp=sharing)
 - [Qualtrics link for survey testing](https://ntuhss.az1.qualtrics.com/jfe/form/SV_0GIxdDgBGg9L7kG](https://ntuhss.az1.qualtrics.com/jfe/form/SV_0GIxdDgBGg9L7kG)
-- [Streamlit App](https://richellejoychia-streamlit-apps-streamlit-app-wtufwn.streamlit.app/](https://richellejoychia-streamlit-apps-streamlit-app-wtufwn.streamlit.app/)
+- [Streamlit App](https://richellejoychia-streamlit-apps-streamlit-app-wtufwn.streamlit.app/)
