@@ -13,7 +13,7 @@ Done by: Richelle-Joy Chia, [Linkedin](https://www.linkedin.com/in/richelle-joy-
 
 ## **Background**
 
-The time and effort involved in planning a vacation sometimes go unaccounted for as there are way too many information online to sieve through. Hence, the goal of this project is to build a recommender system that would evaluate the overwhelming number of POIs and provide personalized recommendations to users based on their preferences. A content-based recommendation system is proposed, one that uses information about the user's preferences and POIs to calculates a degree of similarity between them. In other words, it selects POIs, which have highest similarity with the user's preferences, to recommend to users. 
+The time and effort involved in planning a vacation sometimes go unaccounted for as there are way too many information online to sieve through. Hence, the goal of this project is to build a recommender system that would evaluate the overwhelming number of POIs and provide personalized recommendations to users based on their preferences. A content-based recommendation system is proposed, one that uses information about the user's preferences and POIs to calculate a degree of similarity between them. In other words, it selects POIs, which have highest similarity with the user's preferences, to recommend to users. 
 
 ## **Problem statement**
 
