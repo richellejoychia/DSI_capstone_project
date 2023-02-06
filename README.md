@@ -17,7 +17,7 @@ The time and effort involved in planning a vacation sometimes go unaccounted for
 
 ## **Problem statement**
 
-Existing systems rarely aim at recommending tangible itineraries for tourists within a specific POI due to the difficulty of acquiring information about the true user behavior, that is, the sequence of experiences that travelers perform. While their online information search activity is easy to be tracked, their true experiences, that is, the POIs they visit, are only known indirectly, in the form of selected reviews, which only specific travlers would usually provide. This is much different from other domains, such as Netflix, where the user's watching behavior is easily tracked and users can experience their "like" for a movie by just one click.
+Existing systems rarely aim at recommending tangible itineraries for tourists within a specific POI due to the difficulty of acquiring information about the true user behavior, that is, the sequence of experiences that travelers perform. While their online information search activity is easy to be tracked, their true experiences, that is, the POIs they visit, are only known indirectly, in the form of selected reviews, which only specific travelers would usually provide. This is much different from other domains, such as Netflix, where the user's watching behavior is easily tracked and users can experience their "like" for a movie by just one click.
 
 ## **Libraries and packages used**
 
