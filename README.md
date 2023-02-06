@@ -39,7 +39,7 @@ Existing systems rarely aim at recommending tangible itineraries for tourists wi
 ## **Data Acquisition** 
 
 1. Part 1 of the data (e.g., attraction name, url, reviews, country, price, ratings) was retrieved from a group of people who worked on a travel recommender system. [Click here to refer to source.](http://localhost:8888/files/Capstone%20files/%5Bhttps%3A/github.com/sachinnpraburaj/Intelligent-Travel-Recommendation-System/tree/master/outputs%5D(https%3A/github.com/sachinnpraburaj/Intelligent-Travel-Recommendation-System/tree/master/outputs)?_xsrf=2%7Cb41084ba%7C04a82f1fb2c7dd7f3784b231db96d008%7C1668645866)
-2. Part 2 of the data (e.g., images, duration, and description) was scraped from TripAdvisor using Selenium. The images and duration were scraped to showcase on Streamlit. As for the description, it was partially used to create the manual labels. This was not included in Streamlit as I wanted to only show information that would capture people's attention instantly.
+2. Part 2 of the data (e.g., images, duration, and description) was scraped from TripAdvisor using Selenium. The images and duration were scraped to showcase on Streamlit. As for the description, it was partially used to create the labels based on a Hugging Face model. This was not included in Streamlit as I wanted to only show information that would capture people's attention instantly.
 
 ## **Feature engineering**
 
