@@ -45,7 +45,7 @@ Existing systems rarely aim at recommending tangible itineraries for tourists wi
 
 1. Combined the columns that are related to each other - based on feedback from user testing 
 2. Presence/absence of ratings and reviews - mostly from users who are on extreme ends of satisfaction 
-3. Weighted ratings - input mean and scaled the ratings 
+3. Weighted ratings - impute mean and scaled the ratings 
 
 ## **Evaluating the recommender system and findings**
 
